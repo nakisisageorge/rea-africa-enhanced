@@ -91,6 +91,7 @@ describe("client configuration filesystem lifecycle", () => {
       "amp",
       "fx",
       "junie",
+      "goose",
       "grok_bot",
     ]);
     expect(
